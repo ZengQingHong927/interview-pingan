@@ -1,0 +1,24 @@
+{
+  "name": "interview-pingan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengQingHong927/interview-pingan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZengQingHong927/interview-pingan/issues"
+  },
+  "homepage": "https://github.com/ZengQingHong927/interview-pingan#readme",
+  "dependencies": {
+    "jest": "^26.5.2"
+  }
+}
